@@ -1,4 +1,4 @@
-# fake-product-review-prediction
+# fake-product-review-detection
 
 The impact of reviews on any e-commerce site is of great importance, as it can be the basis for a buyer’s decision to buy any product.
 The scope and need of online markets and e-commerce
